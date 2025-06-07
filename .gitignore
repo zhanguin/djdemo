@@ -1,0 +1,10 @@
+*.exe
+.idea/
+.pyc
+
+*.mp4
+
+*.avi
+*.zip
+
+db.sqlite3
